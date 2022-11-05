@@ -157,3 +157,5 @@
 + Message Digest Algorithm (MD5) : 可以產生出一個128位元（16個字元(BYTES)）的雜湊值（hash value），用於確保資訊傳輸完整一致。
 + Secure Hash Algorithm (SHA) : 是一個密碼雜湊函式家族，是FIPS所認證的安全雜湊演算法。能計算出一個數位訊息所對應到的，長度固定的字串（又稱訊息摘要）的演算法。且若輸入的訊息不同，它們對應到不同字串的機率很高。160位元~512位元
 + Padding Oracle On Downgraded Legacy Encryption（POODLE，貴賓狗）的攻擊行動，利用上述的降級功能突破了SSL 3.0的密碼安全防護，因而可用來竊取原本應是加密的cookies或Tokens。
++ 迪菲-赫爾曼密鑰交換（英語：Diffie–Hellman key exchange，縮寫為D-H） 是一種安全協定。它可以讓雙方在完全沒有對方任何預先資訊的條件下通過不安全信道建立起一個金鑰。這個金鑰可以在後續的通訊中作為對稱金鑰來加密通訊內容。
++ NFC：是Near Field Communication(近距離無線通訊/近場通訊)的縮寫，是一種短距離的高頻無線通訊技術，可以讓裝置以非接觸的方式進行點對點資料傳輸，也能夠讀取含有產品資訊的NFC標籤。起初是應用在信用卡和悠遊卡之類的塑膠貨幣上，在行動支付的運用中， Apple Pay、Samsung Pay、Android Pay、HCE手機信用卡/金融卡、TSM手機信用卡等，均使用同樣的傳輸方式；行動裝置之間的傳輸，或是手機與家電的傳輸，也可透過NFC完成。
