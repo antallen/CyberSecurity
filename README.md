@@ -52,7 +52,7 @@
 + MOU：諒解備忘錄 memorandum of understanding
 + Service Level Agreement (SLA) 中文是服務級別協定，這是服務供應商與客戶就服務水準、品質、效能等方面作出的協議，即技術承包者需要向客戶提供何種級別的服務，同時還要列明服務供應者在未能滿足 SLA 要求時的補救措施和賠償條款。
 + BPA：一攬子採購協定(Blanket Purchase Agreement，簡稱BPA)是一種為降低採購成本，與供應商簽訂的中長期採購協定。一次簽訂，多次要貨。
-+ IOC (Indicators of Compromise) 入侵威脅指標。
++ IOC / IoC (Indicators of Compromise): 入侵威脅指標。
 + 擴充驗證憑證（Extended Validation Certificate，簡稱「EV憑證」）是一種根據一系列特定標準頒發的X.509電子憑證。根據要求，在頒發憑證之前，憑證發行機構(CA)必須要驗證申請者的身分。不同機構根據憑證標準發行的擴充驗證憑證並無太大差異，但是有的時候根據一些具體的要求，特定機構發行的憑證可以被特定的軟體所辨識。
 + User acceptance testing (UAT) 是在軟體測試流程的最後一步
 + 系統發展生命周期（System Development Life Cycle，SDLC），也稱軟體生命周期，是系統工程、資訊系統和軟體工程中的術語，用於描述一個資訊系統從規劃、建立、測試到最終完成部署的全過程。
