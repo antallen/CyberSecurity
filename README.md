@@ -159,3 +159,12 @@
 + Padding Oracle On Downgraded Legacy Encryption（POODLE，貴賓狗）的攻擊行動，利用上述的降級功能突破了SSL 3.0的密碼安全防護，因而可用來竊取原本應是加密的cookies或Tokens。
 + 迪菲-赫爾曼密鑰交換（英語：Diffie–Hellman key exchange，縮寫為D-H） 是一種安全協定。它可以讓雙方在完全沒有對方任何預先資訊的條件下通過不安全信道建立起一個金鑰。這個金鑰可以在後續的通訊中作為對稱金鑰來加密通訊內容。
 + NFC：是Near Field Communication(近距離無線通訊/近場通訊)的縮寫，是一種短距離的高頻無線通訊技術，可以讓裝置以非接觸的方式進行點對點資料傳輸，也能夠讀取含有產品資訊的NFC標籤。起初是應用在信用卡和悠遊卡之類的塑膠貨幣上，在行動支付的運用中， Apple Pay、Samsung Pay、Android Pay、HCE手機信用卡/金融卡、TSM手機信用卡等，均使用同樣的傳輸方式；行動裝置之間的傳輸，或是手機與家電的傳輸，也可透過NFC完成。
++ 保管資料的角色與責任
+
+| Confidentiality(保密) | Privacy(隱私) |
+|:---:|:---:|
+| Normally Data | Personal Data |
+| Data owner | Data Controller |
+| Data custodian | Data Processor |
+
++ Tombstone : 墓碑是用來處理資料的刪除工作，當執行刪除的時候，資料並不會直接被移除，而是被替換成一個墓碑印記。
